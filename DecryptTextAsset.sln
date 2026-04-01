@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecryptTextAsset", "DecryptTextAsset.csproj", "{294A0ACA-87AB-F0CF-4BE7-F2036B88A1C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294A0ACA-87AB-F0CF-4BE7-F2036B88A1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294A0ACA-87AB-F0CF-4BE7-F2036B88A1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294A0ACA-87AB-F0CF-4BE7-F2036B88A1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294A0ACA-87AB-F0CF-4BE7-F2036B88A1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {633117F1-2379-45D9-A124-8E23547B5103}
+	EndGlobalSection
+EndGlobal
